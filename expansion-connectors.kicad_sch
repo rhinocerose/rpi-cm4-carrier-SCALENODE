@@ -1,0 +1,50 @@
+(kicad_sch (version 20210621) (generator eeschema)
+
+  (uuid 38d31a33-fe02-4f3a-bbc5-4e547dbccf7b)
+
+  (paper "A3")
+
+  (title_block
+    (title "Scalenode")
+    (rev "1.0.1")
+  )
+
+  (lib_symbols
+    (symbol "scalenode:PCB_Mount_Hole_2.2_4.5" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+      (property "Reference" "MP" (id 0) (at 0 6.35 0)
+        (effects (font (size 1.27 1.27)))
+      )
+      (property "Value" "PCB_Mount_Hole_2.2_4.5" (id 1) (at 0 -6.35 0)
+        (effects (font (size 1.27 1.27)))
+      )
+      (property "Footprint" "scalenode-footprints:mounting-hole-2.2mm" (id 2) (at 20.32 17.78 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "Datasheet" "" (id 3) (at 24.13 20.32 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (symbol "PCB_Mount_Hole_2.2_4.5_0_1"
+        (circle (center 0 0) (radius 1.8034) (stroke (width 0)) (fill (type none)))
+        (circle (center 0 0) (radius 4.572) (stroke (width 0)) (fill (type none)))
+      )
+    )
+  )
+
+
+  (symbol (lib_id "scalenode:PCB_Mount_Hole_2.2_4.5") (at 135.255 196.215 0) (unit 1)
+    (in_bom yes) (on_board yes)
+    (uuid 00000000-0000-0000-0000-0000603aaae1)
+    (property "Reference" "MP1" (id 0) (at 140.5382 195.0466 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "PCB_Mount_Hole_2.2_4.5" (id 1) (at 140.5382 197.358 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "scalenode-footprints:mounting-hole-2.2mm" (id 2) (at 155.575 178.435 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (id 3) (at 159.385 175.895 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+  )
+)
