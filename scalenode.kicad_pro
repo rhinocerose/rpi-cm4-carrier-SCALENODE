@@ -48,7 +48,13 @@
           "min_clearance": 0.254
         }
       },
-      "diff_pair_dimensions": [],
+      "diff_pair_dimensions": [
+        {
+          "gap": 0.0,
+          "via_gap": 0.0,
+          "width": 0.0
+        }
+      ],
       "drc_exclusions": [],
       "meta": {
         "filename": "board_design_settings.json",
@@ -114,6 +120,7 @@
       "track_widths": [
         0.0,
         0.127,
+        0.15,
         0.2,
         0.254,
         0.4,
