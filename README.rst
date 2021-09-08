@@ -4,6 +4,8 @@ Scalenode platform
 
 Copyright (c) 2020-2021 `Antmicro <https://www.antmicro.com>`_
 
+`Home Page <https://opensource.antmicro.com/projects/scalenode>`_
+
 .. figure:: img/scalenode.jpg
 
 Overview
