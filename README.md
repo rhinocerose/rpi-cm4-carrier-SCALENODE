@@ -5,7 +5,7 @@ Copyright (c) 2020-2021 [Antmicro](https://www.antmicro.com>)
 
 [Home Page](https://opensource.antmicro.com/projects/scalenode)
 
-.. figure:: img/scalenode.jpg
+![](img/scalenode.jpg)
 
 ## Overview
 
@@ -23,8 +23,7 @@ The baseboard has been optimized for 19-inch rack mount installations for distri
 
 ## Board layout and dimensions
 
-.. image:: img/scalenode-dimensions.png
-   :align: center
+![](img/scalenode-dimensions.png)
 
 ## Design status
 
