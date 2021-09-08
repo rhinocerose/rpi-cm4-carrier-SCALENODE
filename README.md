@@ -1,21 +1,18 @@
-==================
-Scalenode platform
-==================
+# Scalenode platform
 
-Copyright (c) 2020-2021 `Antmicro <https://www.antmicro.com>`_
 
-`Home Page <https://opensource.antmicro.com/projects/scalenode>`_
+Copyright (c) 2020-2021 [Antmicro](https://www.antmicro.com>)
+
+[Home Page](https://opensource.antmicro.com/projects/scalenode)
 
 .. figure:: img/scalenode.jpg
 
-Overview
-========
+## Overview
 
 This repository contains the PCB design files for a baseboard supporting Raspberry Pi Compute Module 4.
 The baseboard has been optimized for 19-inch rack mount installations for distributed multi-node computing systems.
 
-Key features
-============
+## Key features
 
 * Supports Raspberry Pi CM4
 * Gigabit Ethernet with integrated PoE circuitry
@@ -24,19 +21,16 @@ Key features
 * Expansion connector for peripherals connected over USB
 * Expansion connector for HDMI adapters
 
-Board layout and dimensions
-===========================
+## Board layout and dimensions
 
 .. image:: img/scalenode-dimensions.png
    :align: center
 
-Design status
-=============
+## Design status
 
 The PCB design files were prepared in KiCad.
 Prototypes of revision 1.0.0 are now being verified.
 
-License
-=======
+## License
 
-`Apache-2.0 <LICENSE>`_
+[Apache-2.0](LICENSE)
